@@ -1,0 +1,7 @@
+topic,choiceNames,choiceValues,selected
+intro,Good,Good,FALSE
+intro,Excelllent,Excellent,FALSE
+reproducibility,relative,Use relative paths rather than absolute paths found only on your computer,FALSE
+reproducibility,col numbers,Try to avoid using row or column numbers which may break if the data gets updated,FALSE
+general,blank,,FALSE
+Final,final,Be sure to look at the solution file.,TRUE
